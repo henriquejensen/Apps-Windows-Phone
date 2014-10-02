@@ -1,0 +1,15 @@
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\Bin\Release\ApplicationIcon.png
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\Bin\Release\Background.png
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\Bin\Release\Cursos_UFLA.dll
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\Bin\Release\Cursos_UFLA.pdb
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\Bin\Release\AppManifest.xaml
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\Bin\Release\Cursos_UFLA.xap
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\obj\Release\App.g.i.cs
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\obj\Release\CursoPage.g.i.cs
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\obj\Release\MainPage.g.i.cs
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\obj\Release\Cursos_UFLA.g.resources
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\obj\Release\Cursos_UFLA.Descricao.resources
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\obj\Release\Cursos_UFLA.csproj.GenerateResource.Cache
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\obj\Release\Cursos_UFLA.dll
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\obj\Release\Cursos_UFLA.pdb
+C:\Users\wozniack\Documents\Visual Studio 2010\Projects\Cursos_UFLA\Cursos_UFLA\obj\Release\XapCacheFile.xml

@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Administracao" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Bacharel em Administração
+Regime: Semestral
+Período: Integral
+Duração: 8 semestres
+Nº de vagas por semestre: 40
+Coordenador: Profª. Maria Cristina Angélico Mendonça
+Telefone: (35) 3829-1767
+E-mail: mariacam @ dae.ufla.br</value>
+  </data>
+  <data name="AdmPublica" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Bacharel em Administração Pública
+Regime: Semestral
+Período: Noturno
+Duração: 9 semestres
+Nº de vagas por semestre: 50
+Coordenador: Prof. Dênis Renato de Oliveira
+Telefone: (35) 3829-3130
+E-mail: denis.oliveira@dae.ufla.br</value>
+  </data>
+  <data name="Agricola" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Engenheiro Agrícola
+Regime: Semestral
+Período: Integral
+Duração: 10 semestres
+Nº de vagas por semestre: 25
+Coordenador: Profª. Mirléia Aparecida de Carvalho
+Telefone: (35) 3829-1533
+E-mail: mirleiaap @ deg.ufla.br</value>
+  </data>
+  <data name="Agronomia" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Bacharel em Agronomia
+Regime: Semestral
+Período: Integral
+Duração:9 semestres
+Nº de vagas por semestre: 100
+Coordenador: Prof. Rafael Pio
+Telefone: (35) 3829-1007
+E-mail: rafaelpio @ dag.ufla.br</value>
+  </data>
+  <data name="Alimentos" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Engenheiro de Alimentos
+Regime: Semestral
+Período: Integral
+Duração: 10 semestres
+Nº de vagas por semestre: 50
+Coordenador: Prof. Alcinéia de L. S. Ramos
+Telefone: (35) 2142-2113
+E-mail: alcineia @ dca.ufla.br</value>
+  </data>
+  <data name="Ambiental" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Regime: Semestral
+Período: Integral
+Duração: 10 semestres
+Nº de vagas por semestre: 50
+Coordenador: Ronaldo Fia
+Telefone: (35) 3829-1028
+E-mail: ronaldofia@deg.ufla.br</value>
+  </data>
+  <data name="Automacao" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Regime: Semestral
+Período: Integral
+Duração: 10 semestres
+Nº de vagas por semestre: 50
+Coordenador: Daniel Augusto Pereira
+Telefone: (35) 2142-2072
+E-mail: danielpereira@deg.ufla.br</value>
+  </data>
+  <data name="BioBach" xml:space="preserve">
+    <value>Modalidades: Bacharelado
+Titulação: Bacharel em Ciências Biológicas
+Regime: Semestral
+Período: Integral
+Duração: 8 semestres
+Nº de vagas por semestre: 25 (para cada modalidade)
+Coordenador: Prof. Marconi Souza Silva
+Telefone: (35) 3829-3136
+E-mail: marconisilva @ dbi.ufla.br</value>
+  </data>
+  <data name="BioLicen" xml:space="preserve">
+    <value>Modalidades: Licenciatura Presencial
+Titulação: Licenciado em Ciências Biológicas
+Regime: Semestral
+Período: Integral
+Duração: 8 semestres
+Nº de vagas por semestre: 25
+Coordenador: Profª Alessandra Angélica de Pádua Bueno
+Telefone: (35) 3829-1344
+E-mail: alebueno @ dbi.ufla.br</value>
+  </data>
+  <data name="Computacao" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Bacharel em Ciência da Computação
+Regime: Semestral
+Período: Integral
+Duração: 8 semestres
+Nº de vagas por semestre: 40
+Coordenador: Profª. Marluce Rodrigues Pereira
+Telefone: (35) 3829-1540
+E-mail:  marluce@dcc.ufla.br</value>
+  </data>
+  <data name="Direito" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Bacharel em Direito
+Regime: Semestral
+Período: Prioritariamente Noturno
+Duração: 10 semestres
+Nº de vagas por semestre: 60
+Coordenador: Prof. Pedro Ivo Ribeiro Diniz
+Telefone: (35) 3829-1950
+E-mail: pedrodiniz @ dae.ufla.br</value>
+  </data>
+  <data name="Filosofia" xml:space="preserve">
+    <value>Modalidade:Licenciatura
+Titulação: Licenciado em Filosofia
+Regime: Semestral
+Período: Noturno
+Duração: 8 semestres
+Nº de vagas por semestre: 50
+Coordenador: Prof. Luiz Marcos da Silva Filho
+Telefone: (35) 2142-2122
+E-mail: luizmarcos @ dch.ufla.br</value>
+  </data>
+  <data name="Fisica" xml:space="preserve">
+    <value>Modalidade: Licenciatura
+Titulação: Licenciado em Física
+Regime: Semestral
+Período: Noturno
+Duração: 9 semestres
+Nº de vagas por semestre: 30
+Coordenador: Prof. Gilberto Lage
+Telefone: (35) 3829-1380
+E-mail: glage @ dex.ufla.br</value>
+  </data>
+  <data name="Florestal" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Engenheiro Florestal
+Regime: Semestral
+Período: Integral
+Duração: 10 semestres
+Nº de vagas por semestre: 50
+Coordenadora: Prof. Luis Antônio Coimbra Borges
+Telefone: (35) 3829-1063
+E-mail: luis.borges @ dcf.ufla.br</value>
+  </data>
+  <data name="Letras" xml:space="preserve">
+    <value>Modalidade: Licenciatura
+Titulação: Licenciado em Letras
+Duração: 8 semestres
+Período: Noturno
+Nº de vagas por semestre: 50 vagas
+Coordenadora: Profª. Helena Maria Ferreira
+Telefone: (35) 2142-2110
+E-mail: helenaferreira @ dch.ufla.br</value>
+  </data>
+  <data name="Matematica" xml:space="preserve">
+    <value>Modalidade: Licenciatura
+Titulação: Licenciado em Matemática
+Regime: Semestral
+Período: Noturno
+Duração: 8 semestres
+Nº de vagas por semestre: 30
+Coordenador: Profª. Amanda Castro Oliveira
+Telefone: (35) 3829-1511
+E-mail: amanda @ dex.ufla.br</value>
+  </data>
+  <data name="Medicina" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Médico
+Regime: Semestral
+Período: Integral
+Duração: 12 semestres
+Nº de vagas por semestre: 30
+Coordenadora: Profª. Luciano José Pereira
+Telefone: (35) 3829-5211
+E-mail: lucianojosepereira@dmv.ufla.br</value>
+  </data>
+  <data name="Nutricao" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Bacharel em Nutrição
+Regime: Semestral
+Período: Integral
+Duração: 9 semestres
+Nº de vagas por semestre: 50
+Coordenador: Profª. Sandra Bragança Coelho
+Telefone: (35) 3829-5243
+E-mail: sandracoelho @ dca.ufla.br</value>
+  </data>
+  <data name="Quimica" xml:space="preserve">
+    <value>Modalidades: Licenciatura e Bacharelado
+Regime: Semestral
+Período: Integral
+Duração: 8 semestres
+Nº de vagas por semestre: 25
+Coordenador: Prof. Jonas Leal Neto
+Telefone: (35) 3829-1515
+E-mail: neto.jl @ dqi.ufla.br</value>
+  </data>
+  <data name="Sistemas" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Bacharel em Sistemas de Informação
+Regime: Semestral
+Período: Noturno
+Duração: 8 semestres
+Nº de vagas por semestre: 40
+Coordenador: Profª. Ana Paula Piovesan Melchiori
+Telefone: (35) 3829-1935
+E-mail: anapaula @ dcc.ufla.br</value>
+  </data>
+  <data name="Veterinaria" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Bacharel em Medicina Veterinária
+Regime: Semestral
+Período: Integral
+Duração: 10 semestres
+Nº de vagas por semestre: 50
+Coordenadora: Profª. Suely de Fátima Costa
+Telefone: (35) 3829-1740
+E-mail: sfcosta @ dmv.ufla.br</value>
+  </data>
+  <data name="Zootecnia" xml:space="preserve">
+    <value>Modalidade: Bacharelado
+Titulação: Bacharel em Zootecnia
+Período: Integral
+Regime: Semestral
+Duração: 9 semestres
+Nº de vagas por semestre: 50
+Coordenador: Prof. Edison José Fassani
+Telefone: (35) 3829-1067
+E-mail: fassani @ dzo.ufla.br</value>
+  </data>
+</root>
